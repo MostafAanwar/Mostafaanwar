@@ -7,5 +7,5 @@
 
 - 📫 How to reach me **mostafaanwar.jabr@gmail.com**
 
-- ⚡ Fun fact **Sudanese who live in Egypt born in KSA**
+- ⚡ Fun fact **Sudanese raised in Egypt and now live in Germany born in KSA**
 
