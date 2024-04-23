@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MostafAanwar](https://github.com/MostafAanwar)
 
-- 🕸 My portfolio website **https://mostafaanwar.github.io/personal-portfolio-site/**
-
 - 📫 How to reach me **mostafaanwar.jabr@gmail.com**
 
 - ⚡ Fun fact **Sudanese who live in Egypt born in KSA**
