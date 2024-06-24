@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaanwar" alt="mostafaanwar" /> </p>
 
-- 👨‍💻 All of my projects are available at [[https://github.com/MostafAanwar](https://github.com/MostafAanwar)](https://mostafaanwar.github.io/Portfolio-XP/)
+- 👨‍💻 All of my projects are available at [[https://mostafaanwar.github.io/Portfolio-XP/](https://mostafaanwar.github.io/Portfolio-XP/)]
 
 - 📫 How to reach me **mostafaanwar.jabr@gmail.com**
 
 - ⚡ Fun fact **Sudanese raised in Egypt living in Germany born in KSA**
-
